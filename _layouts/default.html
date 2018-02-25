@@ -1,0 +1,69 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html>
+
+    {% include head.html %}
+
+    {% capture page_id %}{% if page.url == '/' %}homepage{% else %}{{ page.url | slugify }}{% endif %}{% endcapture %}
+
+    <body id="{{ page_id }}">
+
+        {% if page.type == 'homepage' %}
+        {% include header-rebrand.html %}
+        {{ content }}
+        {% include footer-rebrand.html %}
+        <!-- JS -->
+        <script id="template-blog-post" type="text/template">
+          {% raw %}
+          <div class="col">
+            <div class="card">
+              <img class="card-img-top" src="{{featured_image}}">
+              <div class="card-body">
+                <h5 class="category {{category_visibility}}">{{category}}</h5>
+                <h4 class="card-title"><a href="{{link}}">{{title}}</a></h4>
+                <p class="date small">{{date}}</p>
+              </div>
+            </div>
+          </div>
+          {% endraw %}
+        </script>
+      <script type="text/javascript" src="{{ "/assets/js/scripts.js" | prepend: site.baseurl_root }}?{{site.time | date: '%s%N'}}"></script>
+
+        {% elsif page.type != 'landing-page' %}
+        {% include header.html %}
+        {{ content }}
+        {% include footer.html %}
+        <!-- JS -->
+        <script id="template-blog-post" type="text/template">
+          {% raw %}
+          <div class="col-md-4">
+            <div class="card mb-3">
+              <div class="card-block">
+                <h4 class="card-title"><a href="{{link}}">{{title}}</a></h4>
+                <p class="card-text">
+                  {{excerpt}}
+                </p>
+                <p>
+                  <a href="{{link}}" class="btn btn-primary">Read More</a>
+                </p>
+              </div>
+            </div>
+          </div>
+          {% endraw %}
+        </script>
+        <script type="text/javascript" src="{{ "/assets/js/scripts.js" | prepend: site.baseurl_root }}?{{site.time | date: '%s%N'}}"></script>
+
+        {% else %}
+        {% include header-lp.html %}
+        {{ content }}
+        <script type="text/javascript" src="{{ "/assets/js/landing-page.js" | prepend: site.baseurl_root }}?{{site.time | date: '%s%N'}}"></script>
+        {% endif %}
+
+        {% include tracking/twitter_univ_tag.html %}
+        {% include tracking/facebook_pixel.html %}
+    </body>
+
+</html>

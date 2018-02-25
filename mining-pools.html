@@ -1,0 +1,53 @@
+---
+layout: homepage
+type: homepage
+title: Mining Pools
+---
+
+<section class="interior-header">
+  <div class="page-title text-center">
+    <img class="img-fluid logo" src="/assets/img/icons/safecoin-white.png" />
+    <h2>Mining Pools</h2>
+  </div>
+</section>
+
+<section class="content intro">
+  <div class="intro-circle-div">
+    <img src="/assets/img/icons/mining2.png" class="use-safe-feature-icons">
+  </div>
+  <div class="container-fluid">
+    <div class="row justify-content-center align-items-center">
+      <div class="col-md-7 col-lg-6">
+        <h2>Anyone with a modern Graphic Card can mine SafeCoin, a proof-of-work, equihash-based GPU mining cryptocurrency.</h2>
+        <p>We recommend to spread the hash between pools to prevent a <strong><a href="https://en.bitcoin.it/wiki/Majority_attack">51% attack</a></strong>.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="content pool-list">
+  <div class="container-fluid">
+    <div class="row justify-content-center text-center">
+      <div class="col-lg-8">
+
+        <div class="row justify-content-center text-center">
+          {% for pool in site.data.miningpools %}
+            <div class="col-sm-6 col-lg-4 card-col">
+              <div class="card">
+                <div class="card-body">
+                  <h3>{{ pool.name }}</h3>
+                </div>
+                <div class="card-footer">
+                  <a href="{{ pool.url }}" target="_blank">GO <img src="/assets/img/icons/down-arrow.png" class="right-arrow"></a>
+                </div>
+              </div>
+            </div>
+          {% endfor %}
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>
+
+{% include content/resources.html %}

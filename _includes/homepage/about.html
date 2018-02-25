@@ -1,0 +1,80 @@
+<section id="about">
+
+  <div class="container-fluid body-links">
+    <div class="row justify-content-center align-items-center text-center">
+
+      {% for item in site.translations[site.lang].homepage.about.products.nav %}
+        <div class="col">
+          <a href="{{ item.link }}" class="body-link">
+            <img src="{{ item.icon }}" class="feature-icon">
+            <h3>{{ item.title }}</h3>
+            <img src="/assets/img/icons/down-arrow.png" class="down-arrow">
+          </a>
+        </div>
+      {% endfor %}
+
+    </div>
+  </div>
+
+  <div class="container-fluid">
+    <div class="row justify-content-center align-items-center text-center">
+      <div class="col-lg-6">
+        <p class="lead section-title">
+          {% translate homepage.about.title %}
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-fluid about-safe" data-aos="fade-down">
+    <div class="row justify-content-center align-items-center text-center">
+      <div class="col-md-4">
+        <div class="safetext">
+          <a class="safelink" href="{{site.baseurl}}/safecoin/">
+            <img src="/assets/img/icons/safecoin.png" />
+            <h3>{% translate homepage.about.products.safecoin %}</h3>
+          </a>
+        </div>
+        <div class="safetext">
+          <a class="safelink" href="{{site.baseurl}}/safechat/">
+            <img src="/assets/img/icons/safechat.png" />
+            <h3>{% translate homepage.about.products.safechat %}</h3>
+          </a>
+        </div>
+      </div>
+      <div class="col-md-4">
+        <img src="/assets/img/icons/safeicon.png" class="safe-icon wobble">
+      </div>
+      <div class="col-md-4">
+        <div class="safetext">
+          <a class="safelink" href="{{site.baseurl}}/safepub/">
+            <img src="/assets/img/icons/safepub.png" />
+            <h3>{% translate homepage.about.products.safepub %}</h3>
+            <p>
+              {% translate homepage.about.products.development %}
+            </p>
+          </a>
+        </div>
+        <div class="safetext">
+          <a class="safelink" href="{{site.baseurl}}/safehide/">
+            <img src="/assets/img/icons/safehide.png" />
+            <h3>{% translate homepage.about.products.safehide %}</h3>
+            <p>
+              {% translate homepage.about.products.development %}
+            </p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="container-fluid safecoin-video">
+    <div class="row justify-content-center align-items-center text-center">
+      <div class="col-lg-6">
+        <a href="https://www.youtube.com/watch?v=3q6IvMRWapc" data-lity>
+          <img class="img-fluid" src="/assets/img/safecoin-video-thumbnail.jpg" />
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
