@@ -17,22 +17,22 @@ defaults:
     permalink: "/blog/:title/"
     featured-image: ''
     posts:
-    -
-    -
-    -
+    - 
+    - 
+    - 
 email: fair-exchange@protonmail.com
 description: A Safe, Secure, Smart Solution for the CryptoCurrency Community
-baseurl: ""
+baseurl: ''
 url: https://safecoin.org
 author:
   name: Safe
   email: fair-exchange@protonmail.com
   uri: https://safecoin.org
-  bio:
+  bio: 
   facebook: https://www.facebook.com/safecoins/
   twitter: safecoins
   linkedin: https://www.linkedin.com/company/safecoins/
-  gplus:
+  gplus: 
   youtube: https://www.youtube.com/watch?v=13W3wmOFrAc&feature=youtu.be
 links:
   bitcointalk: https://bitcointalk.org/index.php?topic=2838370
@@ -47,7 +47,7 @@ links:
   telegram: https://t.me/joinchat/HCqlLxEEFR_SQPd9VjSpBw
   twitter: https://twitter.com/safecoins
   youtube: https://www.youtube.com/watch?v=13W3wmOFrAc&feature=youtu.be
-  whitepaper: /assets/Safe%20White%20Paper.pdf
+  whitepaper: "/assets/Safe%20White%20Paper.pdf"
 wallets:
   swing: https://github.com/Fair-Exchange/safewallet/releases
   arisafe: https://github.com/Fair-Exchange/safewallet/releases
@@ -57,7 +57,7 @@ lsi: false
 permalink: pretty
 paginate: 6
 paginate_path: "/blog/page:num/"
-excerpt_separator:
+excerpt_separator: 
 markdown: kramdown
 cloudinary:
   cloud_name: dw4i3sw5c
@@ -81,7 +81,7 @@ gems:
 exclude:
 - _dev
 - bower.json
-- .env.json
+- ".env.json"
 - Gemfile
 - Gemfile.lock
 - gulpfile.js
@@ -91,6 +91,7 @@ exclude:
 - README.md
 - vendor
 - old-homepage.html
-
-languages: ["en"]
-exclude_from_localizations: ["assets"]
+languages:
+- en
+exclude_from_localizations:
+- assets
