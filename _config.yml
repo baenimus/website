@@ -20,38 +20,37 @@ defaults:
     -
     -
     -
-email: mdlorey@gmail.com
-description: A globally accessible and anonymous blockchain
+email: fair-exchange@protonmail.com
+description: A Safe, Secure, Smart Solution for the CryptoCurrency Community
 baseurl: ""
-url: https://safesystem.io
+url: https://safecoin.org
 author:
   name: Safe
-  email: info@safecoin.com
-  uri: https://safesystem.io/
+  email: fair-exchange@protonmail.com
+  uri: https://safecoin.org
   bio:
-  facebook: https://www.facebook.com/safecoin/
-  twitter: safecoinofficial
-  linkedin: https://www.linkedin.com/company/25052505/
+  facebook: https://www.facebook.com/safecoins/
+  twitter: safecoins
+  linkedin: https://www.linkedin.com/company/safecoins/
   gplus:
-  youtube: https://www.youtube.com/channel/UCQ0v_lUnZHIKUQUXJzfgqOg
+  youtube: https://www.youtube.com/watch?v=13W3wmOFrAc&feature=youtu.be
 links:
-  bitcointalk: https://bitcointalk.org/index.php?topic=2047435.0
-  blog: https://blog.safesystem.io/
-  facebook: https://www.facebook.com/safecoin/
-  linkedin: https://www.linkedin.com/company/25052505/
-  forum: https://forum.safesystem.io/
-  github: https://github.com/SafecashOfficial
-  medium: https://medium.com/safecoin
-  reddit: https://www.reddit.com/r/SafeSys/
-  discord: https://discord.gg/CEbKY9w
-  slack: https://slackinvite.safesystem.io/
-  telegram: https://t.me/safecoin
-  twitter: https://twitter.com/safecoinofficial
-  youtube: https://www.youtube.com/channel/UCQ0v_lUnZHIKUQUXJzfgqOg
+  bitcointalk: https://bitcointalk.org/index.php?topic=2838370
+  blog: https://blog.safecoin.org/
+  facebook: https://www.facebook.com/safecoins/
+  linkedin: https://www.linkedin.com/company/safecoins/
+  forum: https://forum.safecoins.org/
+  github: https://github.com/Fair-Exchange
+  reddit: https://www.reddit.com/r/
+  discord: https://discord.gg/EkXGdw6
+  slack: https://safecoins.slack.com
+  telegram: https://t.me/joinchat/HCqlLxEEFR_SQPd9VjSpBw
+  twitter: https://twitter.com/safecoins
+  youtube: https://www.youtube.com/watch?v=13W3wmOFrAc&feature=youtu.be
   whitepaper: /assets/Safe%20White%20Paper.pdf
 wallets:
-  swing: https://github.com/SafecashOfficial/safecoin-swing-wallet-ui/releases
-  arisafe: https://github.com/SafecashOfficial/arisafe/releases
+  swing: https://github.com/Fair-Exchange/safewallet/releases
+  arisafe: https://github.com/Fair-Exchange/safewallet/releases
 future: true
 show_drafts: true
 lsi: false
