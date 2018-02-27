@@ -4,16 +4,16 @@ global:
   roadmap: Roadmap
 homepage:
   hero:
-    subtitle: Money, Messages, & Media
-    announcement: Excited to Announce R&D Partnership with IOHK
+    subtitle: Safey Isn't Expensive, Its Priceless
+    announcement: Rapidly building new Partnerships as SafeCoin Emerges as the most advanced and fair Privacy Cryptocurrency
     announcement-button: Learn More
   about:
-    title: Safe is a platform with the latest privacy technology and a self-sustaining funding model with protocol-level solutions
+    title: Safe is an advanced form of privacy coin leveraging Z-cash, Komodo, and other technology with new innovations and an improved distribution and emission
     products:
-      safecoin: For Money
-      safechat: For Messaging
+      safecoin: Safey First
+      safechat: Coming Soon
       safepub: For Media
-      safehide: For Web Traffic
+      safehide: With Tor Integration
       development: (in development)
       nav:
         - title: Features
@@ -29,67 +29,72 @@ homepage:
           link: '#white-paper'
           icon: /assets/img/icons/whitepaper.png
   features:
-    title: SafeCoin is Public, Private, and Anonymous
-    cta: More about the IOHK Partnership
+    title: SafeCoin is Safe, Secure, and Anonymous
+    cta: More about new partnships and advancements
   tech:
-    title: Secure - Private - Untraceable - Resilient
-    subtitle: Safe aims to lead the technological forefront & contribute to humanity through innovation
+    title: Safe - Secure - Anonymous
+    subtitle: No other coin distributes this much advanced technology fairly for adoption by the cryptocurrency community without ICOs or hidden fees
     features:
       - title: Best Privacy Tech
         content:
-          - zk-SNARKS - Private transactions with hidden sender/receiver information
-          - Domain Fronting - Hides internet connection endpoints to prevent censorship
-          - IPFS - Publish or access data anonymously via a distributed system
-      - title: Decentralized Autonomous Organization (DAO)
+        - zk-SNARKS - Private transactions with hidden sender/receiver information
+        - Tor Integration - Hides internet connection endpoints to prevent censorship
+        - Jumblr Integration - Ensure maximum privacy and anonymity with decentralized mixing
+        - dPOW (delayed Proof of Work) leverages the strength of the bitcoin network
+        - SafeNodes, coming soon, base off of Komodo's Notary Node technology
+      - title: Atomic Swaps and Decentralized Exchange
         content:
-          - Allocate resources through the most advanced Treasury Model designed with the best privacy tech coupled with economic theory
-      - title: Most Resilient System
+          - Exchange cryptocurrency anonymously via a decentralized system.  Currently under testing and rapid development / enhancement
+      - title: Collect Interest for using SafeCoin
         content:
-          - <a href="https://securenodes.na.safesystem.io/">Safe Secure Nodes</a> → <span id="nodeCount">6640</span> Nodes!
+          - SafeCoin is the Only equihash coin without and ICO to offer interest (currently at 5% per annum, compouinded) for use
       - title: Research and Development Focus
         content:
-          - Protocol-level solutions like DAO,  next generation Scaling, and more!
+          - Looking to integrate TLS Encryption, OBFS4, a new feature we call "Decentralized Trust", and much more
       - title: Most Secure System
         content:
-          - SafeCoin has node-to-node encryption → 1st to market!
+          - SafeCoin has tor integration, which are developing and enhancing further!
       - title: Minable
         content:
-          - Proof-of-work, equihash-based GPU mining
+          - delayed Proof-of-work, equihash-based GPU mining with the most generous block reward of any equihash coin, will maintaining limited supply
   roadmap:
-    events:
-      2017:
+     events:
+      2018:
         - title: SafeCoin Launch
           icon: /assets/img/icons/launch.png
           content:
-            - SafeCoin launched on 5.30.17
+            - SafeCoin launched on 02.10.18
         - title: Core Updates
           icon: /assets/img/icons/updates.png
           content:
-            - First blockchain with TLS integration (SSL cert for node encryption)
+            - First and only Komodo fork without any ICO
             - Blockchain improvements
             - Replay protection
         - title: Wallets and Products
           icon: /assets/img/icons/wallet.png
           content:
             - Tor SafeCoin Nodes
-            - Chat messaging
-            - Swing Wallet - full blockchain
-            - Android Wallet
-            - Arisafe Wallet - lite blockchain
-            - Paper Wallet
-        - title: Secure Nodes
+            - Atomic Swaps
+            - Decentralized Exchange
+            - Windows/Linux/Mac GUI Wallet - full blockchain
+            - Lite blockchain options
+            - Android Wallet Coming Soon
+            - iOS Wallet Coming Soon
+            - Paper Wallet Coming Soon
+            - Web Wallet coming soon
+            - TLS Encryption
+        - title: Safe Nodes
           icon: /assets/img/icons/encryption.png
           content:
-            - Resilient end-to-end network encryption
-            - Payment system for secure node operators
-      2018:
-        - title: Wallets and Projects
+            - Resilient end-to-end network protection
+      2019:
+        - title: Enhanced Decentralized Exchange
           icon: /assets/img/icons/voting.png
           content:
-            - Proposal Submission and Voting System GUI
-            - iOS Wallet
-            - OpenBazaar Integration
-            - Operation Radical Transparency
+            - Merging go technology to expand exchange into mainstream markets
+            - Evolution of decentralized exchange into Decentralized Market
+            - Implementation of SwiftCoin Protocol
+            - Mobile API for advanced next gen integrations
         - title: Secure Node
           icon: /assets/img/icons/secure.png
           content:
@@ -102,7 +107,7 @@ homepage:
             - Scaling study - next generation blockchain solution
             - Domain Fronting
             - SafePub Protocol-level
-      2019:
+      2020:
         - title: Deliver to Market
           icon: /assets/img/icons/scalability-study.png
           content:
@@ -111,21 +116,21 @@ homepage:
             - Scalability Solution
             - IPFS published on Secure Nodes
   whitepaper:
-    subtitle: "White Paper is in revision. Original White Paper is nearly 80% satisfied:"
+    subtitle: "White Paper is in revision and will be released shortly. Novel new innovations are currently in phase:"
     button: Download White Paper
 securenodes:
   hero:
-    title: SafeCoin is Private Money, Messages, Media
-    subtitle: Secure nodes make the SafeCoin network the most decentralized & resilient blockchain!
-    cta: Instructions to Set Up Secure Nodes
+    title: SafeCoin is Safe, Secure, Anonymous
+    subtitle: Safe nodes make the SafeCoin network rock solid by leveraging the strength of the bitcoin network!
+    cta: Instructions to Set Up Safe Nodes Coming
   requirements:
     title: Requirements
-    cta: Instructions to Set Up Secure Nodes
+    cta: Instructions to Set Up Safe Nodes (to be determined/voted)
     list:
-      - title: 42 $SAFE
+      - title: xx $SAFE
         subtitle: in transparent address per node
         icon: /assets/img/icons/vector-1.png
-      - title: TLS Certificate
+      - title: Tor Node?
         subtitle: from a known Certificate Authority
         icon: /assets/img/icons/vector-3.png
       - title: Computational Challenge
@@ -134,8 +139,8 @@ securenodes:
       - title: SafeCoin Blockchain
         subtitle: Maintain a full copy of the SafeCoin Blockchain
         icon: /assets/img/icons/vector-4.png
-      - title: 92%+ Uptime
-        subtitle: Keep the node up and running at least 92% of the time
+      - title: 85%+ Uptime?
+        subtitle: Keep the node up and running at least 85% of the time
         icon: /assets/img/icons/vector-1.png
   footer:
     title: Buy or Sell SafeCoin

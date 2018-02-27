@@ -1,8 +1,8 @@
 ### Designed for Long-Term Operation
-- 21 million SafeCoin cap - no premine, no ICO
-- Thousands of Secure Nodes in operation - 3.5% of mining reward
-- Treasury funds for development, support, marketing - 8.5% of mining reward
-- Strong Team & Representative Governance - Safe Blockchain Foundation
-- Wallets and communication clients for International Users
+- 36 million SafeCoin cap - small premine, no ICO
+- Mining reward stay with miners
+- No fees, taxes, or anything...miners get their block reward
+- Strong Team & Representation by all as a Powerfull Community Coin
+- Wallets and communication clients for International Users, with TOR integration
 - Marketing Globalization - Tailored approach to different markets
-- Secure Nodes provide a resilient, distributed network
+- Safe Nodes provide a resilient, distributed network, leveraging Komodo's Notary Node technology
