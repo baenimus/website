@@ -1,16 +1,10 @@
 [
   {
     "poolName": "equipool.1ds.us",
-    "url": "https://equipool.1ds.us/getting_started",
-    "searchStrings": [
-      "equipool.1ds.us"
-    ]
+    "url": "https://equipool.1ds.us/getting_started"
   },
  {
     "poolName": "Catspool",
-    "url": "http://safecoin.catspool.org/",
-    "searchStrings": [
-      "safecoin.catspool.org"
-    ]
-  }
+     "url": "http://safecoin.catspool.org/"
+ }
 ]
