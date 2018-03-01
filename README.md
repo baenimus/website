@@ -1,6 +1,6 @@
 # SafeCoin Website
 
-This is the first iteration of creating a website for Safe Cash that utilizes a static site generator. It is based on past work but will evolve over time to leverage new technologies.
+This is the first iteration of creating a website for SafeCoin that utilizes a static site generator. It is based on past work from Zen Cash (GPL fork) and will evolve over time to leverage new technologies.
 
 ## Getting Started
 
