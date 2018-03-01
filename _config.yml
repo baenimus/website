@@ -49,8 +49,12 @@ links:
   youtube: https://www.youtube.com/watch?v=13W3wmOFrAc&feature=youtu.be
   whitepaper: "/assets/Safe%20White%20Paper.pdf"
 wallets:
-  swing: https://github.com/Fair-Exchange/safewallet/releases
-  arisafe: https://github.com/Fair-Exchange/safewallet/releases
+  safewalletwin: https://github.com/Fair-Exchange/safewallet/releases/download/v0.013w64/Safewallet-win32-x64-v0.013.zip
+  safewalletmac: https://github.com/Fair-Exchange/safewallet/releases
+  safewalletlin: https://github.com/Fair-Exchange/safewallet/releases/download/v0.013lin64/Safewallet-linux-x64-v0.013.tar.gz
+  safecoinwin: https://github.com/Fair-Exchange/safecoin/releases/download/v0.1-Windows/SafeCoin.zip
+  safecoinmac: https://github.com/Fair-Exchange/safewallet/releases
+  safecoinlin: https://github.com/Fair-Exchange/safecoin/releases/download/v0.1-Linux/safecoin.tar.gz
 future: true
 show_drafts: true
 lsi: false
