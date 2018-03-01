@@ -207,7 +207,7 @@ $.ajax({
 
 if ( document.getElementById("nodeCount") ) {
   $.ajax({
-    url: 'https://securenodes.na.safesystem.io/api/grid/nodes',
+    url: 'https://securenodes.na.safecoin.org/api/grid/nodes',
     dataType: 'json',
     success: function(data) {
       var nodeValue = data.userdata.global.total;
@@ -222,7 +222,7 @@ if ( document.getElementById("nodeCount") ) {
 
 if ( document.getElementById("circSupply") ) {
   $.ajax({
-    url: 'https://explorer.safesystem.io/insight-api-safe/status?q=getTotalSupply',
+    url: 'https://explorer.safecoin.org/insight-api-safe/status?q=getTotalSupply',
     dataType: 'json',
     success: function(data) {
       if ( $.isNumeric(data.supply) ) {
@@ -292,7 +292,7 @@ if ( document.getElementById("blogPosts") && document.getElementById("template-b
   // get the categories and posts
   $.ajax({
     type: "GET",
-    url: "https://blog.safesystem.io/wp-json/wp/v2/categories",
+    url: "https://blog.safecoin.org/wp-json/wp/v2/categories",
     dataType: "json",
     data: {
       per_page: 50
@@ -307,7 +307,7 @@ if ( document.getElementById("blogPosts") && document.getElementById("template-b
       // get the posts
       $.ajax({
         type: "GET",
-        url: "https://blog.safesystem.io/wp-json/wp/v2/posts",
+        url: "https://blog.safecoin.org/wp-json/wp/v2/posts",
         dataType: "json",
         data: {
           // categories_include: [1, 33, 39, 48, 56, 57, 63, 72, 73],

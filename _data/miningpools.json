@@ -1,80 +1,16 @@
-[{
-  "name": "SafeMine Pro",
-  "url": "https://safemine.pro/"
-},
-{
-  "name": "Luckpool",
-  "url": "http://www.luckpool.org/"
-},
-{
-  "name": "ZHash.pro",
-  "url": "https://zhash.pro/"
-},
-{
-  "name": "Miningspeed",
-  "url": "http://safe.miningspeed.com/"
-},
-{
-  "name": "Mining Pool Hub",
-  "url": "https://miningpoolhub.com/"
-},
-{
-  "name": "SafePool.org",
-  "url": "https://safepool.org/"
-},
-{
-  "name": "CloudPools",
-  "url": "http://safe.cloudpools.net/"
-},
-{
-  "name": "TreeFrog Mines",
-  "url": "https://treefrogmines.com/"
-},
-{
-  "name": "Cryptobroker",
-  "url": "https://pool.cryptobroker.io/safe/"
-},
-{
-  "name": "MineZ Zone",
-  "url": "https://minez.zone/"
-},
-{
-  "name": "SG Pool",
-  "url": "https://www.sgpool.net/"
-},
-{
-  "name": "SG SafeCoin Pool Sexy",
-  "url": "http://safe.pool.sexy"
-},
-{
-  "name": "HebUsio Pool",
-  "url": "https://safepool-eu.hebusio.com"
-},
-{
-  "name": "SuprNova",
-  "url": "https://safe.suprnova.cc/"
-},
-{
-  "name": "Owl Miners' Club",
-  "url": "http://safe.owlminingclub.com/"
-},
-{
-  "name": "Miner Maniac",
-  "url": "http://www.minermaniac.com/"
-},
-{
-  "name": "Nibiru Pool",
-  "url": "http://safe.nibirupool.com/"
-},
-{
-  "name": "Blocksucker Nation",
-  "url": "http://safe.blocksuckernation.com/"
-},
-{
-  "name": "Catspool",
-  "url": "http://safe.catspool.org/"
-},
-{
-  "name": "2miners",
-  "url": "https://2miners.com/"
-}]
+[
+  {
+    "poolName": "equipool.1ds.us",
+    "url": "https://equipool.1ds.us/getting_started",
+    "searchStrings": [
+      "equipool.1ds.us"
+    ]
+  },
+ {
+    "poolName": "Catspool",
+    "url": "http://safecoin.catspool.org/",
+    "searchStrings": [
+      "safecoin.catspool.org"
+    ]
+  }
+]

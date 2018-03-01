@@ -18,4 +18,4 @@ Designed for long-term operation:
 - Marketing Globalization - Tailored approach to different markets
 - Safe Nodes provide a resilient, distributed network, leveraging Komodo's Notary Node technology
 
-[Why Secure Nodes are Important](https://blog.safesystem.io/secure-nodes-why-are-they-important/){: .btn .btn-lg .btn-primary}
+[Why Secure Nodes are Important](https://blog.safecoin.org/secure-nodes-why-are-they-important/){: .btn .btn-lg .btn-primary}

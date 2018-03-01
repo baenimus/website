@@ -18,4 +18,4 @@ SafeCoin는 거래와 커뮤니케이션 그리고 퍼블리싱에 사용되는 
 - 마케팅의 세계화 - 서로다른 시장에 맞게 맞춤형 접근을 합니다
 - 보안노드가 탄력적이고 분산된 네트워크를 제공합니다
 
-[왜 보안노드가 중요한가](https://blog.safesystem.io/secure-nodes-why-are-they-important/){: .btn .btn-lg .btn-primary}
+[왜 보안노드가 중요한가](https://blog.safecoin.org/secure-nodes-why-are-they-important/){: .btn .btn-lg .btn-primary}
