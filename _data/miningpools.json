@@ -1,10 +1,10 @@
 [
   {
-    "poolName": "equipool.1ds.us",
+    "name": "equipool.1ds.us",
     "url": "https://equipool.1ds.us/getting_started"
   },
  {
-    "poolName": "Catspool",
+    "name": "Catspool",
      "url": "http://safecoin.catspool.org/"
  }
 ]
