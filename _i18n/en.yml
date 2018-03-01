@@ -81,8 +81,10 @@ homepage:
             - Android Wallet Coming Soon
             - iOS Wallet Coming Soon
             - Paper Wallet Coming Soon
+            - SwiftCoin Protocol Basic Implementation
             - Web Wallet coming soon
             - TLS Encryption
+            - Decentralized Trust - Basic Implementation
         - title: Safe Nodes
           icon: /assets/img/icons/encryption.png
           content:
@@ -93,13 +95,12 @@ homepage:
           content:
             - Merging go technology to expand exchange into mainstream markets
             - Evolution of decentralized exchange into Decentralized Market
-            - Implementation of SwiftCoin Protocol
+            - Full Implementation of SwiftCoin Protocol
             - Mobile API for advanced next gen integrations
-        - title: Secure Node
+        - title: SafeNode Notary Nodes
           icon: /assets/img/icons/secure.png
           content:
-            - Secure Node system improvements
-            - Secure Node system built into blockchain protocol study
+            - SafeNode Notary Node system improvements
         - title: Research and Development
           icon: /assets/img/icons/r-d.png
           content:
@@ -111,7 +112,7 @@ homepage:
         - title: Deliver to Market
           icon: /assets/img/icons/scalability-study.png
           content:
-            - DAO Treasury Protocol-level Voting System
+            - Decentralized Trusted Publications
             - Dandelion++ Integration for Network Stack Anonymity
             - Scalability Solution
             - IPFS published on Secure Nodes
