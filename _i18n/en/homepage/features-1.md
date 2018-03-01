@@ -1,4 +1,4 @@
-### Designed for Long-Term Operation
+### Built with Love for Safety
 - 36 million SafeCoin cap - small premine, no ICO
 - Mining reward stay with miners
 - No fees, taxes, or anything...miners get their block reward
