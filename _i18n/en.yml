@@ -33,7 +33,7 @@ homepage:
     cta: More about new partnships and advancements
   tech:
     title: Safe - Secure - Anonymous
-    subtitle: No other coin distributes this much advanced technology fairly for adoption by the cryptocurrency community without ICOs or hidden fees
+    subtitle: No other coin fairly distributes as highly advanced technology as SafeCoin does without an ICO or hidden fees for adoption by cryptocurrency community
     features:
       - title: Best Privacy Tech
         content:
@@ -47,16 +47,16 @@ homepage:
           - Exchange cryptocurrency anonymously via a decentralized system.  Currently under testing and rapid development / enhancement
       - title: Collect Interest for using SafeCoin
         content:
-          - SafeCoin is the Only equihash coin without and ICO to offer interest (currently at 5% per annum, compouinded) for use
+          - SafeCoin is the Only equihash coin without an ICO to offer interest (currently at 5% per annum, compouinded) for use
       - title: Research and Development Focus
         content:
           - Looking to integrate TLS Encryption, OBFS4, a new feature we call "Decentralized Trust", and much more
       - title: Most Secure System
         content:
-          - SafeCoin has tor integration, which are developing and enhancing further!
+          - SafeCoin has tor integration, which we are developing and enhancing further!
       - title: Minable
         content:
-          - delayed Proof-of-work, equihash-based GPU mining with the most generous block reward of any equihash coin, will maintaining limited supply
+          - Delayed Proof-of-work, equihash-based GPU mining with the most generous block reward of any equihash coin, while maintaining limited supply
   roadmap:
      events:
       2018:
