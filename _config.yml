@@ -17,9 +17,9 @@ defaults:
     permalink: "/blog/:title/"
     featured-image: ''
     posts:
-    -
-    -
-    -
+    - 
+    - 
+    - 
 email: fair-exchange@protonmail.com
 description: A Safe, Secure, Smart Solution for the CryptoCurrency Community
 baseurl: ''
@@ -28,11 +28,11 @@ author:
   name: Safe
   email: fair-exchange@protonmail.com
   uri: https://safecoin.org
-  bio:
+  bio: 
   facebook: https://www.facebook.com/safecoins/
   twitter: safecoins
   linkedin: https://www.linkedin.com/company/safecoins/
-  gplus:
+  gplus: 
   youtube: https://www.youtube.com/watch?v=13W3wmOFrAc&feature=youtu.be
 links:
   bitcointalk: https://bitcointalk.org/index.php?topic=2838370
@@ -61,7 +61,7 @@ lsi: false
 permalink: pretty
 paginate: 6
 paginate_path: "/blog/page:num/"
-excerpt_separator:
+excerpt_separator: 
 markdown: kramdown
 cloudinary:
   cloud_name: dw4i3sw5c
