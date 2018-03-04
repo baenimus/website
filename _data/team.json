@@ -6,65 +6,14 @@
   },
   "groups": [
     {
-      "name": "Engineering",
-      "slug": "engineering",
+      "name": "Founder",
+      "slug": "founder",
       "members": [
           {
-            "name": "Coming Soon",
-            "photo": "/assets/img/people/anon_profile.jpg",
-            "title": "Team Lead",
-            "bio": "The greatest strength of SafeCoin is it's team and community.  SafeCoin has a rapidly growing team of talented individuals that have helped in every aspect of this coin's development and continue to make it better daily.  We are in the process of updating and publishing our talented team members.",
-            "social": {
-              "twitter": "safecoins",
-              "linkedin": "safecoins",
-              "discord": "safecoin"
-            }
-          }
-        ]
-        },
-    {
-      "name": "User Experience",
-      "slug": "user-experience",
-      "members": [
-          {
-            "name": "Coming Soon",
-            "photo": "/assets/img/people/anon_profile.jpg",
-            "title": "Team Lead",
-            "bio": "The greatest strength of SafeCoin is it's team and community.  SafeCoin has a rapidly growing team of talented individuals that have helped in every aspect of this coin's development and continue to make it better daily.  We are in the process of updating and publishing our talented team members.",
-            "social": {
-              "twitter": "safecoins",
-              "linkedin": "safecoins",
-              "discord": "safecoin"
-            }
-          }
-        ]
-        },
-    {
-      "name": "Marketing",
-      "slug": "marketing",
-      "members": [
-          {
-            "name": "Coming Soon",
-            "photo": "/assets/img/people/anon_profile.jpg",
-            "title": "Team Lead",
-            "bio": "The greatest strength of SafeCoin is it's team and community.  SafeCoin has a rapidly growing team of talented individuals that have helped in every aspect of this coin's development and continue to make it better daily.  We are in the process of updating and publishing our talented team members.",
-            "social": {
-              "twitter": "safecoins",
-              "linkedin": "safecoins",
-              "discord": "safecoin"
-            }
-          }
-        ]
-        },
-    {
-      "name": "Operations",
-      "slug": "operations",
-      "members": [
-          {
-            "name": "Coming Soon",
-            "photo": "/assets/img/people/anon_profile.jpg",
-            "title": "Team Lead",
-            "bio": "The greatest strength of SafeCoin is it's team and community.  SafeCoin has a rapidly growing team of talented individuals that have helped in every aspect of this coin's development and continue to make it better daily.  We are in the process of updating and publishing our talented team members.",
+            "name": "Jeff Galloway",
+            "photo": "/assets/img/people/jeff.jpg",
+            "title": "CTO,
+            "bio": "Jeff has been active in many corporate IT Project Management for many years, and comes from a background of Project Delivery and Execution with expertise in bringing many people and skills together for a common technology goal.   This is coupled with years of extensive Open Source software experience, in particular, Data Science and Blockchain development",
             "social": {
               "twitter": "safecoins",
               "linkedin": "safecoins",
@@ -78,10 +27,61 @@
       "slug": "business-development",
       "members": [
           {
-            "name": "Coming Soon",
-            "photo": "/assets/img/people/anon_profile.jpg",
+            "name": "Wade Ferraris",
+            "photo": "/assets/img/people/wade.jpg",
+            "title": "CTO",
+            "bio": "Wade is an educated, exerienced, and promising entrepreneur with many gifts and skillsets and a track record of successful, well managed business startups and ventures.  He has a passion for and strong understanding of cryptocurrency that is well utilized with SafeCoin",
+            "social": {
+              "twitter": "safecoins",
+              "linkedin": "safecoins",
+              "discord": "safecoin"
+            }
+          }
+        ]
+        },
+    {
+      "name": "Advisor - Technology and Business",
+      "slug": "advisor-technology-and-bussiness",
+      "members": [
+          {
+            "name": "Paulo De Matos",
+            "photo": "/assets/img/people/paulo.jpg",
+            "title": "Advisor - Technology and Business",
+            "bio": "Paulo has been active in the technology industry for 24 years, originally as a technical developer and thereafter in a business development roles. In the last 13 years he has accumulated vast international and industry knowledge and experience and has worked within the sales and marketing departments in the U.K., Australia and South Africa. Paulo is is experienced and successful at ensuring that maximum business value is achieved in technology solutions and organizations. He and his team determine this through ongoing research and identifying world trends to anticipate users’ aspirations and industry-specific requirements.",
+            "social": {
+              "twitter": "safecoins",
+              "linkedin": "safecoins",
+              "discord": "safecoin"
+            }
+          }
+        ]
+        },
+    {
+      "name": "Technical Advisor",
+      "slug": "technical-advisor",
+      "members": [
+          {
+            "name": "Beshoy Girgis",
+            "photo": "/assets/img/people/beshoy.jpg",
             "title": "Team Lead",
-            "bio": "The greatest strength of SafeCoin is it's team and community.  SafeCoin has a rapidly growing team of talented individuals that have helped in every aspect of this coin's development and continue to make it better daily.  We are in the process of updating and publishing our talented team members.",
+            "bio": "An all-around information technology professional (software engineer) with experience in: front and back-end web software and database development, mobile application development and Linux and Apple and Windows server administration.  I love to learn and strive to remain on the edge of the technology curve.",
+            "social": {
+              "twitter": "safecoins",
+              "linkedin": "safecoins",
+              "discord": "safecoin"
+            }
+          }
+        ]
+        },
+    {
+      "name": "Graphic Design Lead",
+      "slug": "graphic-design-lead",
+      "members": [
+          {
+            "name": "Mark Willams",
+            "photo": "/assets/img/people/mark.jpg",
+            "title": "Graphic Design Lead",
+            "bio": "Mark Williams is a video marketing strategist with over 5 years of extensive “hands-on” experience in online marketing, video creation, and design. He believes that all marketing strategies should begin with a commitment to creating genuine human connections and authentic relationships. When Mark is not in front of a computer he can be found competing on the soccer fields of New Jersey. ",
             "social": {
               "twitter": "safecoins",
               "linkedin": "safecoins",
