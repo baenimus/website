@@ -50,10 +50,10 @@ links:
   whitepaper: "/assets/Safe%20White%20Paper.pdf"
 wallets:
   safewalletwin: https://github.com/Fair-Exchange/safewallet/releases/download/v0.013w64/Safewallet-win32-x64-v0.013.zip
-  safewalletmac: https://github.com/Fair-Exchange/safewallet/releases/download/v0.013mac64/Safewallet-darwin-x64.zip
+  safewalletmac: https://github.com/Fair-Exchange/safewallet/releases/tag/v0.013mac64
   safewalletlin: https://github.com/Fair-Exchange/safewallet/releases/download/v0.013lin64/Safewallet-linux-x64-v0.013.tar.gz
   safecoinwin: https://github.com/Fair-Exchange/safecoin/releases/download/v0.1-Windows/SafeCoin.zip
-  safecoinmac: https://github.com/Fair-Exchange/safecoin/releases/download/v0.013mac64/safecoin-cli-mac.zip
+  safecoinmac: https://github.com/Fair-Exchange/safecoin/releases/tag/v0.013mac64
   safecoinlin: https://github.com/Fair-Exchange/safecoin/releases/download/v0.1-Linux/safecoin.tar.gz
 future: true
 show_drafts: true

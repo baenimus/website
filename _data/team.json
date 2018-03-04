@@ -91,14 +91,14 @@
         ]
         },
     {
-      "name": "Partners",
-      "slug": "partners",
+      "name": "Operations",
+      "slug": "Operations",
       "members": [
         {
-          "name": "Coming Soon",
-          "photo": "/assets/img/people/anon_profile.jpg",
-          "title": "Team Lead",
-          "bio": "The greatest strength of SafeCoin is it's team and community.  SafeCoin has a rapidly growing team of talented individuals that have helped in every aspect of this coin's development and continue to make it better daily.  We are in the process of updating and publishing our talented team members.",
+          "name": "Gary Figg",
+          "photo": "/assets/img/people/gary.jpg",
+          "title": "Operations Lead",
+          "bio": "Gary is a self described computer nerd, but is so much more to us. Started with a TRS-80 Model One 40 years ago and never stopped. Wallet beta testing along with with logistical support for new members, airdrops, and bounty campaigns.",
           "social": {
             "twitter": "safecoins",
             "linkedin": "safecoins",
