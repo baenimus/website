@@ -1,0 +1,149 @@
+global:
+  english: English
+  korean: 한국어
+  spanish: Español
+  roadmap: Mapa del Proyecto
+homepage:
+  hero:
+    subtitle: La seguridad no es cara, no tiene precio 
+    announcement: Consiguiendo rápidamente nuevos colaboradores mientras Safecoin surge de manera justa como la criptomoneda orientada a la privacidad más avanzada  
+    announcement-button: Más Información
+  about:
+    title: Safe es una forma avanzada de moneda con enfoque a la privacidad con influencias de Z-cash, Komodo, y otras tecnologías con novedosas innovaciones con una mejorada distribución y emisión 
+
+    products:
+      safecoin: La seguridad es lo primero
+      safechat: Próximamente
+      safepub: Para medios de comunicación
+      safehide: Con integración Tor
+      development: (en desarrollo)
+      nav:
+        - title: Características
+          link: '#features'
+          icon: /assets/img/icons/features.png
+        - title: Mapa del proyecto
+          link: '#roadmap'
+          icon: /assets/img/icons/roadmap.png
+        - title: Equipo
+          link: '#team-overview'
+          icon: /assets/img/icons/team.png
+        - title: White Paper
+          link: '#white-paper'
+          icon: /assets/img/icons/whitepaper.png
+  features:
+    title: SafeCoin es segura, confiable y anónima
+    cta: Más sobre nuevas colaboraciones y avances
+  tech:
+    title: Segura - Confiable - Anónima
+    subtitle: Ninguna otra moneda distribuye de manera justa una moneda tan tecnológicamente avanzada como SafeCoin sin ningún tipo de ICO o tasas ocultas para que sea adquirida por la comunidad
+    features:
+      - title: La mejor tecnología con enfoque a la privacidad
+        content:
+        - zk-SNARKS - Transacciones privadas con información remitente/receptor oculta
+        - Tor Integration - Esconde las conexiones finales de internet para prevenir cualquier tipo de censura
+        - Jumblr Integration - Asegura la máxima privacidad y anonimato con una combinación descentralizada
+        - dPOW (delayed Proof of Work) hace uso de la capacidad de la red bitcoin 
+        - SafeNodes, próximamente, basado en la tecnología Komodo's Notary Node
+      - title: Atomic Swaps y Exchange Descentralizado
+        content:
+          - Exchange de criptomonedas anónimo gracias a un sistema descentralizado. En estos momentos en pruebas y en prioridad de desarrollo
+      - title: Recibe interés por usar Safecoin
+        content:
+          - Safecoin es la única moneda equihash sin ICO en ofrecer interés (en estos momentos un 5% por año) por uso
+      - title: Investigación y objectivos de Desarrollo
+        content:
+          - Tratando de integrar cifrado TLS, OBFS4, una nueva herramienta llamada "Decentralized Trust" y mucho más
+      - title: El sistema con más seguridad
+        content:
+          - SafeCoin tiene Tor integrado, el cual estamos desarrollando y mejorando
+      - title: Disponible para mineros
+        content:
+          - Delayed Proof-of-work, basado en el algoritmo equihash para minado de GPU con la recompensa por bloque más generosa que cualquier moneda equihash al mismo tiempo manteniendo una circulación limitada
+  roadmap:
+     events:
+      2018:
+        - title: Lanzamiento Safecoin
+          icon: /assets/img/icons/launch.png
+          content:
+            - Safecoin lanzada el 02.10.18
+        - title: Core Updates
+          icon: /assets/img/icons/updates.png
+          content:
+            - Primer y único fork de Komodo sin ningún tipo de ICO
+            - Mejoras de la blockchain
+            - Replay protection
+        - title: Carteras y Productos
+          icon: /assets/img/icons/wallet.png
+          content:
+            - Nodos Tor SafeCoin
+            - Atomic Swaps
+            - Exchange Descentralizado 
+            - Windows/Linux/Mac GUI Wallet - full blockchain
+            - Opciones lite blockchain 
+            - Próximamente Android Wallet
+            - Próximamente iOS Wallet 
+            - Próximamente Paper Wallet
+            - Implementación básica del protocolo SwiftCoin 
+            - Próximamente Web Wallet
+            - Cifrado TLS 
+            - Confianza Descentralizada - Implementación básica
+        - title: SafeNodes
+          icon: /assets/img/icons/encryption.png
+          content:
+            - Resistente protección de red end-to-end
+      2019:
+        - title: Un mejorado exchange descentralizado
+          icon: /assets/img/icons/voting.png
+          content:
+            - Incorporando tecnología para expandir el exchange a los mercados principales
+            - Evolución de un exchange descentralizado hacia un mercado descentralizado
+            - Implementación completa del protocolo SwiftCoin
+            - Mobile API para avanzadas integraciones nextgen
+        - title: SafeNode Notary Nodes
+          icon: /assets/img/icons/secure.png
+          content:
+            - Mejoras del sistema SafeNode Notary Node 
+        - title: Investigación y Desarrollo 
+          icon: /assets/img/icons/r-d.png
+          content:
+            - DAO Treasury Protocol-level Voting System
+            - Estudio de escala - solución nextgen blockchain
+            - Domain Fronting
+            - SafePub Protocol-level
+      2020:
+        - title: Deliver to Market
+          icon: /assets/img/icons/scalability-study.png
+          content:
+            - Publicaciones descentralizadas de confianza
+            - Integración Dandelion++ for Network Stack Anonymity
+            - Solución de adaptabilidad
+            - IPFS publicado en Secure Nodes
+  whitepaper:
+    subtitle: "White Paper está sujeto a revisiones y será lanzado proximamente. En estos momentos hay nuevas innovaciones en fase de desarrollo"
+    button: Descarga el White Paper
+securenodes:
+  hero:
+    title: Safecoin es segura, confiable, anónima
+    subtitle: los nodos Safe hacen la red Safecoin una red muy sólida haciendo uso de la capacidad de la red bitcoin
+    cta: Instrucciones para configurar SafeNodes próximamente
+  requirements:
+    title: Requisitos
+    cta: Instrucciones para configurar SafeNodes(por decidir/votar)
+    list:
+      - title: xx $SAFE
+        subtitle: en direcciones transparentes por nodo
+        icon: /assets/img/icons/vector-1.png
+      - title: ¿Nodo Tor?
+        subtitle: desde una conocida Autoridad Certificada
+        icon: /assets/img/icons/vector-3.png
+      - title: Reto computacional
+        subtitle: <small> Utiliza el nodo en un servidor con suficiente procesador y memoria para recibir un reto computacional</small>
+        icon: /assets/img/icons/vector-2.png
+      - title: SafeCoin Blockchain
+        subtitle: Mantiene una copia completa de la blockchain SafeCoin 
+        icon: /assets/img/icons/vector-4.png
+      - title: ¿Más del 85% del tiempo encendido?
+        subtitle: Mantén el nodo disponible y ejecutándose al menos el 85% del tiempo 
+        icon: /assets/img/icons/vector-1.png
+  footer:
+    title: Compra o vende SafeCoin
